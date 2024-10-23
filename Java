@@ -1,2 +1,14 @@
+SEMI COLON AND CAMEL LANGUAGE
 public class
-//signals to the JVM that the class is accessible from any other class, regardless of the package it belongs to
+  //signals to the JVM that the class is accessible from any other class, regardless of the package it belongs to
+public static void main(String[] args){}
+  //access specifier, keyword, return type, method name, array of string type
+import java.util.Scanner;
+  //A Scanner is a text parser that can get numbers, words, or phrases from an input source
+Scanner scnr = new Scanner(System.in);
+  //Create a scanner object with this statement
+scnr.nextInt();
+  //Get next input
+
+
+
