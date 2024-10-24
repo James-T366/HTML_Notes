@@ -9,6 +9,16 @@ Scanner scnr = new Scanner(System.in);
   //Create a scanner object with this statement
 scnr.nextInt();
   //Get next input
+double 
+  // float but holds bigger numbers
+System.out.print & System.out.println
+  // puts text to output
+char 
+  // holds a character using ''
+boolean
+  // has to be declared
+int
+  //integer
 
 
 
