@@ -1,4 +1,6 @@
-SEMI COLON AND CAMEL LANGUAGE
+SEMI COLON
+CAMEL NAMING
+
 public class
   //signals to the JVM that the class is accessible from any other class, regardless of the package it belongs to
 public static void main(String[] args){}
@@ -23,5 +25,7 @@ switch
   //control structure that allows you to execute different parts of code based on the value of a variable. It provides a more readable and organized way to handle multiple conditions compared to using a series of if-else
 break
   // exit block of code
+this 
+  //keyword used to refer to the current object instance within a class
 
 
