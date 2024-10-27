@@ -27,5 +27,6 @@ break
   // exit block of code
 this 
   //keyword used to refer to the current object instance within a class
-
+return 
+  // finishes the execution of a method and can be used to return a value from a method
 
