@@ -8,7 +8,7 @@ public static void main(String[] args){}
 import java.util.Scanner;
   //A Scanner is a text parser that can get numbers, words, or phrases from an input source
 Scanner scnr = new Scanner(System.in);
-  //Create a scanner object with this statement
+  //Create a scanner object with this statement and gets system input
 scnr.nextInt();
   //Get next input
 double 
@@ -29,4 +29,5 @@ this
   //keyword used to refer to the current object instance within a class
 return 
   // finishes the execution of a method and can be used to return a value from a method
+
 
