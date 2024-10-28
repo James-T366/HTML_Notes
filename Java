@@ -29,6 +29,9 @@ this
   //keyword used to refer to the current object instance within a class
 return 
   // finishes the execution of a method and can be used to return a value from a method
+ System.out.printf("%.2f", myFloat);
+	//The syntax for outputting the double myFloat with two digits after the decimal point is
+
 
 reserved words 
 abstract
