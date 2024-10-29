@@ -32,8 +32,13 @@ return
  System.out.printf("%.2f", myFloat);
 	//The syntax for outputting the double myFloat with two digits after the decimal point is
 final 
-	// will ouput an error if keyword final is put before variable and later in the program that varioable is changed
+	// will ouput an error if keyword final is put before variable and later in the program that varioable is changed (contsant variable)
+	//it is good practice to capitalize constat variables
+
+
 reserved words 
+
+
 abstract
 assert
 boolean
