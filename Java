@@ -34,7 +34,9 @@ return
 final 
 	// will ouput an error if keyword final is put before variable and later in the program that varioable is changed (contsant variable)
 	//it is good practice to capitalize constat variables
-
+Math.sqrt() 
+Math.pow(x,y)
+Math.abs()
 
 reserved words 
 
