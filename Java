@@ -38,6 +38,9 @@ Math.sqrt()
 Math.pow(x,y)
 Math.abs()
 
+randNum && randNum % 
+  // generates random number and a random number within a certain range
+
 reserved words 
 
 
