@@ -17,6 +17,8 @@ System.out.print & System.out.println
   // puts text to output
 char 
   // holds a character using ''
+Java does not have a method for getting one character from input. Instead, the following sequence can be used: myChar = scnr.next().charAt(0); The charAt(0) is explained in another section. 
+Briefly, next() gets the next sequence of non-whitespace characters (as a string), and charAt(0) gets the first character in that string.
 boolean
   // has to be declared
 int
@@ -40,6 +42,9 @@ Math.abs()
 
 randNum && randNum % 
   // generates random number and a random number within a certain range
+
+
+
 
 reserved words 
 
