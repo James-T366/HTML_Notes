@@ -43,11 +43,15 @@ Math.abs()
 randNum && randNum % 
   // generates random number and a random number within a certain range
 
+//escape sequences
 
+\n	newline
+\t	tab
+\'	single quote
+\"	double quote
+\\	backslash
 
-
-reserved words 
-
+//reserved words 
 
 abstract
 assert
