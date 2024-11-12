@@ -25,6 +25,8 @@ boolean
   // has to be declared
 int
   //integer
+long
+//long is used for integers expected to exceed about 2 billion.
 switch 
   //control structure that allows you to execute different parts of code based on the value of a variable. It provides a more readable and organized way to handle multiple conditions compared to using a series of if-else
 break
