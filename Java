@@ -52,7 +52,7 @@ randNum && randNum %
 // generates random number and a random number within a certain range
 
 import java.util.Random;
- //util for using random numbers
+ //enables use of the Random class.
 Random randGen = new Random();
 	// similar to scanner
 
