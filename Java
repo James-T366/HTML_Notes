@@ -12,7 +12,7 @@ Scanner scnr = new Scanner(System.in);
 scnr.nextInt();
   //Get next input
 scnr.nextLine()
-//Gets input of whole line (does nopt skip leading white space)
+//Gets input of whole line (does not skip leading white space while scnr.next() does)
 double 
   // float but holds bigger numbers
 System.out.print & System.out.println
