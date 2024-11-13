@@ -10,7 +10,9 @@ import java.util.Scanner;
 Scanner scnr = new Scanner(System.in);
   //Create a scanner object with this statement and gets system input
 scnr.nextInt();
-  //Get next input
+  //Get next integer
+scnr.nextDouble();
+	//Get next double
 scnr.nextLine()
 	//Gets input of whole line (does not skip leading white space while scnr.next() does)
 double 
